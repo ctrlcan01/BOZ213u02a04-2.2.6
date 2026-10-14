@@ -1,0 +1,1 @@
+print("seni\sevmiyorum\Python")
